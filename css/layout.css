@@ -719,7 +719,7 @@ ul.slimmenu.collapsed li > ul {
 	background-position:center center;
 } 
 #sync1 .item.background-home-image-1 {
-	background-image:url('../images/home-1.jpg');
+	background-image:url('../images/home-1.png');
 } 
 #sync1 .item.background-home-image-2 {
 	background-image:url('../images/home-2.jpg');
@@ -1764,7 +1764,7 @@ figure.vimeo a img, figure.youtube a img {
 ================================================== */
 
 .parallax-2 {
-	background: url('../images/parallax-2.jpg') repeat fixed;
+	background: url('../images/parallax-2.png') repeat fixed;
 	background-size: cover;
 	position: absolute;
 	top: 0; 
@@ -1788,11 +1788,11 @@ figure.vimeo a img, figure.youtube a img {
 
 #owl-logos{
 	position:relative;
-	width:calc(100% - 30px);
+	width:calc(100% - 20px);
 	overflow:hidden;
 	margin:0 auto;
 	text-align:center;
-	padding-bottom:70px;
+	padding-bottom:50px;
 }
 #owl-logos .item{
 	position:relative;
@@ -1802,7 +1802,7 @@ figure.vimeo a img, figure.youtube a img {
 	text-align:center;
 }
 #owl-logos .item img{
-	width:80px;
+	width:120px;
 	display:block;
 	margin:0 auto;
 	text-align:center;
